@@ -1,0 +1,23 @@
+body{
+			overflow:hidden;
+			background-image: url("./img/bg.png");
+			background-position: top;
+			background-repeat: no-repeat;
+	}
+.bgdiv{
+		background-image: url("./img/bg1.png");
+		height:900px;
+		position: center;
+	}
+.bgdiv1{
+		background-image: url("./img/bg2.png");
+		height:900px;
+		position: center;
+	}
+p{
+		position:relative; 
+		top:100px; 
+		left:50px; 
+		color:white;
+		font-size:0.8cm
+	}
